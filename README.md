@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kosstiantyn 
+- 👋 Hi, I’m @Kostiantyn 
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning html, css, node.js, js, react
 
