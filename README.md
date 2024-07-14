@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kostiantyn 
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html, css, node.js, js, react
+- 🌱 I’m currently learning data engineering
 
 <!---
 Kosstiantyn/Kosstiantyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
